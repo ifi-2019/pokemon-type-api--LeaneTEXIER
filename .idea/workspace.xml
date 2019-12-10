@@ -6,7 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83dc62f8-d765-46ff-bb57-65c6c757e2b6" name="Default Changelist" comment="" />
+    <list default="true" id="83dc62f8-d765-46ff-bb57-65c6c757e2b6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +54,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pokemon-type-api-v2-LeaneTEXIER" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -322,6 +324,7 @@
       <workItem from="1572861274695" duration="4365000" />
       <workItem from="1573630645286" duration="624000" />
       <workItem from="1574668169666" duration="19000" />
+      <workItem from="1575985415657" duration="172000" />
     </task>
     <servers />
   </component>
